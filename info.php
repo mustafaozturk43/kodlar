@@ -1,5 +1,7 @@
 <?php
 echo phpinfo();
-echo print ("Hello Git Hub");
-echo print ("Hello MoWeb");
-echo print ("Hello Excel 274");
+echo  ("Hello Git Hub");
+echo  ("Hello MoWeb");
+echo  ("Hello Excel 274");
+$test="hello word";
+echo ($test);
